@@ -32,6 +32,12 @@ Desde el **Panel de Control**, puedes crear y personalizar cada curso con total 
 - Exportación a PDF con librerías React (`@react-pdf/renderer`)
 - Almacenamiento automático en historial del alumno
 
+<img width="733" height="672" alt="cert" src="https://github.com/user-attachments/assets/89093122-9153-45f9-ad8c-0d3f94670037<img width="713" height="635" alt="mail" src="https://github.com/user-attachments/assets/8bf0de71-1750-483d-b21e-d1c0b84f5f14" />
+
+
+
+
+
 ### 3. Personalización de Marca
 
 <img width="1036" height="813" alt="marc" src="https://github.com/user-attachments/assets/7cde6b82-4838-443b-a4cc-8d1b531b4c35" />
@@ -47,7 +53,8 @@ Desde el **Panel de Control**, puedes crear y personalizar cada curso con total 
 - Editor de **plantillas de email**
 - Envío automático de certificados adjuntos al completar curso
 
-<img width="733" height="672" alt="cert" src="https://github.com/user-attachments/assets/89093122-9153-45f9-ad8c-0d3f94670037" />
+<img width="713" height="635" alt="mail" src="https://github.com/user-attachments/assets/2761f984-615b-4b8d-a23a-46840aeb61a6" />
+
 
   
 
