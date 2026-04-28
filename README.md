@@ -1,4 +1,5 @@
-# Autoescuela Hub - Plataforma de Gestión React  www.autoescuela-react.netlify.app
+# Gestión_Autoescuela_React  
+www.autoescuela-react.netlify.app
 > **Sistema Todo-en-Uno:** Sitio público + Panel administrativo para gestionar autoescuelas de forma autónoma.
 
 ## 🚀 Funcionalidades Principales
